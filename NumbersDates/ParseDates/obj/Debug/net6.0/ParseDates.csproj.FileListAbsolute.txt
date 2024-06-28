@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.exe
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.deps.json
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.runtimeconfig.json
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.dll
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.pdb
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfo.cs
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.dll
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\refint\ParseDates.dll
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
+C:\Users\PC\Documents\Application Programming\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll

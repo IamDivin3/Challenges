@@ -1,0 +1,7 @@
+Summary of Microsoft Office Files in Directory: C:\Users\PC\Documents\Application Programming\Start\Files\Challenge
+-----------------------------------------------
+Excel files (.xlsx): 0, Total Size: 0 bytes
+Word files (.docx): 0, Total Size: 0 bytes
+PowerPoint files (.pptx): 0, Total Size: 0 bytes
+-----------------------------------------------
+Total Office Files: 0, Total Size: 0 bytes

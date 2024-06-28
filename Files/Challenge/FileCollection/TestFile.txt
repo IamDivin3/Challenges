@@ -1,0 +1,7 @@
+Summary of Microsoft Office Files in Directory: C:\Users\PC\Documents\Application Programming\Start\Files\Challenge\FileCollection
+-----------------------------------------------
+Excel files (.xlsx): 4, Total Size: 74262 bytes
+Word files (.docx): 5, Total Size: 1196567 bytes
+PowerPoint files (.pptx): 3, Total Size: 1403482 bytes
+-----------------------------------------------
+Total Office Files: 12, Total Size: 2674311 bytes
